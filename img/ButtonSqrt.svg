@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="71.94444pt" height="44.277776pt" viewBox="0 0 71.94444 44.277776">
+<g enable-background="new">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 0 0 L 308.48 0 L 308.48 198.652 L 0 198.652 Z " fill="#a0a0a0"/>
+<clipPath id="cp0">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 175.977 54.1953 L 96.2734 54.1953 L 96.2734 94.0469 L 175.977 94.0469 L 175.977 54.1953 Z "/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 96.2734 54.1953 L 175.9765 54.1953 L 175.9765 94.046909 L 96.2734 94.046909 Z " fill="#ffffa3"/>
+</g>
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" stroke-width="2.98879" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 175.977 54.1953 L 96.2734 54.1953 L 96.2734 94.0469 L 175.977 94.0469 L 175.977 54.1953 Z "/>
+<symbol id="font_1_1">
+<path d="M .316 .10500002 L .14000002 .49400003 C .13300002 .51 .12799999 .51 .125 .51 C .124000009 .51 .118999999 .51 .108 .502 L .012999997 .43 C 0 .42000003 0 .417 0 .41400004 C 0 .40900005 .0029999987 .403 .009999998 .403 C .015999996 .403 .033 .417 .044 .425 C .049999998 .43 .065000008 .44099999 .076 .449 L .273 .015999973 C .28 0 .285 0 .294 0 C .30900003 0 .312 .0059999825 .319 .01999998 L .773 .96000006 C .78000006 .97400006 .78000006 .97800007 .78000006 .98 C .78000006 .99 .772 1 .76000007 1 C .75200006 1 .745 .99500009 .73700007 .97900006 L .316 .10500002 Z "/>
+</symbol>
+<use xlink:href="#font_1_1" transform="matrix(16.60439,0,0,-16.60439,12.878786,31.051323)"/>
+<mask id="ma2">
+<use xlink:href="#im3" x="0" y="0" width="1" height="1"/>
+</mask>
+<symbol id="im3" viewBox="0 0 1 1">
+<image width="1" height="1" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAAAAAA6fptVAAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAACklEQVR4nGP8DwABAwEBMfQ2/wAAAABJRU5ErkJggg=="/>
+</symbol>
+<rect x="0" y="0" width="1" height="1" transform="matrix(26.333334,0,0,-.6666667,25.48336,15.127775)" mask="url(#ma2)"/>
+</g>
+</svg>

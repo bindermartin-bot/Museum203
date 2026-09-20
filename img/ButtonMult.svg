@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="71.94444pt" height="44.277776pt" viewBox="0 0 71.94444 44.277776">
+<g enable-background="new">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 0 0 L 308.48 0 L 308.48 209.453 L 0 209.453 Z " fill="#a0a0a0"/>
+<clipPath id="cp0">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 24.543 69.9766 L 104.246 69.9766 L 104.246 109.828 L 24.543 109.828 L 24.543 69.9766 Z "/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 24.543 69.9766 L 104.2461 69.9766 L 104.2461 109.8282 L 24.543 109.8282 Z " fill="#ffffa3"/>
+</g>
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" stroke-width="2.98879" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 24.543 69.9766 L 104.246 69.9766 L 104.246 109.828 L 24.543 109.828 L 24.543 69.9766 Z "/>
+<clipPath id="cp1">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 233.758 69.9766 L 154.059 69.9766 L 154.059 109.828 L 233.758 109.828 L 233.758 69.9766 Z "/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 154.059 69.9766 L 233.75821 69.9766 L 233.75821 109.8282 L 154.059 109.8282 Z " fill="#a3ffa3"/>
+</g>
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" stroke-width="2.98879" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 233.758 69.9766 L 154.059 69.9766 L 154.059 109.828 L 233.758 109.828 L 233.758 69.9766 Z "/>
+<clipPath id="cp2">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 137.121 89.9023 L 137.121 89.9023 L 137.121 90.6758 L 136.492 93 L 134.785 95.5352 L 132.25 97.2422 L 129.926 97.8711 L 129.152 97.8711 L 128.375 97.8711 L 126.051 97.2422 L 123.516 95.5352 L 121.805 93 L 121.18 90.6758 L 121.18 89.9023 L 121.18 89.125 L 121.805 86.8008 L 123.516 84.2656 L 126.051 82.5547 L 128.375 81.9297 L 129.152 81.9297 L 129.926 81.9297 L 132.25 82.5547 L 134.785 84.2656 L 136.492 86.8008 L 137.121 89.125 L 137.121 89.9023 Z "/>
+</clipPath>
+<g clip-path="url(#cp2)">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 121.18 81.9297 L 137.1214 81.9297 L 137.1214 97.8711 L 121.18 97.8711 Z "/>
+</g>
+</g>
+</svg>

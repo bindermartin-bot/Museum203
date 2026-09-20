@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="71.94444pt" height="44.277776pt" viewBox="0 0 71.94444 44.277776">
+<g enable-background="new">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 0 0 L 308.48 0 L 308.48 198.652 L 0 198.652 Z " fill="#a0a0a0"/>
+<clipPath id="cp0">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 24.543 59.1758 L 104.246 59.1758 L 104.246 99.0273 L 24.543 99.0273 L 24.543 59.1758 Z "/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 24.543 59.1758 L 104.2461 59.1758 L 104.2461 99.027408 L 24.543 99.027408 Z " fill="#ffffa3"/>
+</g>
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" stroke-width="2.98879" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 24.543 59.1758 L 104.246 59.1758 L 104.246 99.0273 L 24.543 99.0273 L 24.543 59.1758 Z "/>
+<clipPath id="cp1">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 233.758 59.1758 L 154.059 59.1758 L 154.059 99.0273 L 233.758 99.0273 L 233.758 59.1758 Z "/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" d="M 154.059 59.1758 L 233.75821 59.1758 L 233.75821 99.027408 L 154.059 99.027408 Z " fill="#a3ffa3"/>
+</g>
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" stroke-width="2.98879" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 233.758 59.1758 L 154.059 59.1758 L 154.059 99.0273 L 233.758 99.0273 L 233.758 59.1758 Z "/>
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" stroke-width="4.48319" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 114.207 79.1016 L 144.094 79.1016 "/>
+<path transform="matrix(.27777777,0,0,-.27777777,0,44.277776)" stroke-width="4.48319" stroke-linecap="round" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 129.152 64.1563 L 129.152 94.0469 "/>
+</g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="51.47222pt" height="34.305555pt" viewBox="0 0 51.47222 34.305555">
+<g enable-background="new">
+<clipPath id="cp0">
+<path transform="matrix(.27777777,0,0,-.27777777,0,34.305555)" d="M 8.39844 10 L 175.57444 10 L 175.57444 115.605 L 8.39844 115.605 Z "/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<clipPath id="cp1">
+<path transform="matrix(.27777777,0,0,-.27777777,0,34.305555)" d="M -6.54297 -4.94531 L 672.906 -4.94531 L 672.906 140.512 L -6.54297 140.512 L -6.54297 -4.94531 Z "/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<path transform="matrix(.27777777,0,0,-.27777777,0,34.305555)" d="M 0 0 L 672.906 0 L 672.906 140.512 L 0 140.512 Z " fill="#c0c0c0"/>
+</g>
+</g>
+<clipPath id="cp2">
+<path transform="matrix(.27777777,0,0,-.27777777,0,34.305555)" d="M 8.39844 10 L 175.57444 10 L 175.57444 115.605 L 8.39844 115.605 Z "/>
+</clipPath>
+<g clip-path="url(#cp2)">
+<path transform="matrix(.27777777,0,0,-.27777777,0,34.305555)" d="M 57.7813 84.4609 L 57.7813 84.4609 C 48.082 77.8438 41.4805 67.5586 39.5117 55.9805 L 49.3672 56.7422 L 59.2188 57.5039 C 56.8359 62.1758 55.5898 67.3516 55.5898 72.5938 C 55.5898 76.6484 56.3359 80.6758 57.7813 84.4609 "/>
+<path transform="matrix(.27777777,0,0,-.27777777,0,34.305555)" stroke-width="2.98879" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 57.7813 84.4609 L 57.7813 84.4609 C 48.082 77.8438 41.4805 67.5586 39.5117 55.9805 L 49.3672 56.7422 L 59.2188 57.5039 C 56.8359 62.1758 55.5898 67.3516 55.5898 72.5938 C 55.5898 76.6484 56.3359 80.6758 57.7813 84.4609 Z "/>
+<path transform="matrix(.27777777,0,0,-.27777777,0,34.305555)" d="M 49.5078 55.2539 L 46.5391 54.9141 L 52.4766 55.5977 L 49.5078 55.2539 Z "/>
+<path transform="matrix(.27777777,0,0,-.27777777,0,34.305555)" stroke-width="5.97758" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M 69.1719 94.3242 L 69.1719 94.3242 C 75.2266 97.8203 82.1016 99.6641 89.0977 99.6641 C 111.105 99.6641 128.949 81.8203 128.949 59.8125 C 128.949 37.8047 111.105 19.9609 89.0977 19.9609 C 68.8008 19.9609 51.7422 35.2188 49.4922 55.3906 "/>
+</g>
+</g>
+</svg>
